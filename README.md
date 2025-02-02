@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanzo-hasashi1831
 - 👀 I’m interested in programming and basically gaming 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects dealing with computer vision and machine learning 
 - 📫 How to reach me ...
 
 <!---
